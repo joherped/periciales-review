@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-docx
+numpy
+python-dotenv
+openai
